@@ -430,10 +430,10 @@
 			"SpawnUnit"
 			{
 				"Target"	"CASTER"
-				"UnitName"	"npc_unit_nvlieshou"
+				"UnitName"	"npc_unit_bulianshi" //测试召唤物的名字改在这里
 				"UnitCount"	"2"
 				"UnitLimit"	"2"
-				"Duration"	"%duration"
+				//"Duration"	"%duration"
 			}
 		}
 		"AbilitySpecial"
